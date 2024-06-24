@@ -1,0 +1,12 @@
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\bin\Release\net5.0\ePizzaHub.Entities.deps.json
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\bin\Release\net5.0\ePizzaHub.Entities.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\bin\Release\net5.0\ref\ePizzaHub.Entities.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\bin\Release\net5.0\ePizzaHub.Entities.pdb
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.csprojAssemblyReference.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.AssemblyInfoInputs.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.AssemblyInfo.cs
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.csproj.CoreCompileInputs.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ref\ePizzaHub.Entities.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Entities\obj\Release\net5.0\ePizzaHub.Entities.pdb

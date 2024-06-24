@@ -1,0 +1,54 @@
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csprojAssemblyReference.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfo.cs
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.deps.json
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.json
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.dev.json
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ref\ePizzaHub.Repositories.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.pdb
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.CopyComplete
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ref\ePizzaHub.Repositories.dll
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Code\Weekdays\ePizzaHub\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.genruntimeconfig.cache
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.deps.json
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.json
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.dev.json
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.pdb
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.AssemblyReference.cache
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfo.cs
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHu.9CC6F612.Up2Date
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\refint\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.genruntimeconfig.cache
+C:\Users\manes\Downloads\ePizzaHub7-Final\ePizzaHub.Repositories\obj\Debug\net5.0\ref\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.deps.json
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.json
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.runtimeconfig.dev.json
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.dll
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\bin\Debug\net5.0\ePizzaHub.Entities.pdb
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.AssemblyReference.cache
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfoInputs.cache
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.AssemblyInfo.cs
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.csproj.CoreCompileInputs.cache
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHu.9CC6F612.Up2Date
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\refint\ePizzaHub.Repositories.dll
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.pdb
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ePizzaHub.Repositories.genruntimeconfig.cache
+C:\Users\manes\Downloads\HungerHub - Final Year Project (MCA)\ePizzaHub.Repositories\obj\Debug\net5.0\ref\ePizzaHub.Repositories.dll
